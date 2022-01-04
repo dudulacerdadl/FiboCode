@@ -7,5 +7,3 @@ def fibo(n):
 
 for i in range(0, 65):
     print(f'{i}º - {fibo(i)}')
-
-//teste
